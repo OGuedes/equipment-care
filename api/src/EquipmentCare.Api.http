@@ -1,0 +1,6 @@
+@EquipmentCare.Api_HostAddress = http://localhost:5076
+
+GET {{EquipmentCare.Api_HostAddress}}/health
+Accept: application/json
+
+###
